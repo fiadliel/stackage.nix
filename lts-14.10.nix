@@ -1382,7 +1382,6 @@ hackage:
       "ix-shapable".revision = (((hackage."ix-shapable")."0.1.0").revisions)."329c7a3eba788598e4768d8eabdb304b133124a522b7b3883a6fe8170e012c38";
       "hw-conduit".revision = (((hackage."hw-conduit")."0.2.0.6").revisions)."ede48aa43d5096e103d3a15886dc555b119ad644382093064b40e367cacbbaaf";
       "weigh".revision = (((hackage."weigh")."0.0.14").revisions)."655ff8086b9704828102872a48cfd968b355352d4ee1a01b42a2e033eb8639e1";
-      "libiserv".revision = (((hackage."libiserv")."8.6.3").revisions).default;
       "unification-fd".revision = (((hackage."unification-fd")."0.10.0.1").revisions)."6f4e01d9d5dc01db56e1dc9e2380d7d8d17488ab810dd94aea1966ea60aa6200";
       "hw-json-simd".revision = (((hackage."hw-json-simd")."0.1.0.4").revisions)."cd1a26ba433460a111114e483adad6732dfaee020bec0be86ad70399147583a0";
       "integer-logarithms".revision = (((hackage."integer-logarithms")."1.0.3").revisions)."280ade63c067aaff7259049b033aa7c51e9e993cdaa6e6c601560a92e530dffc";
